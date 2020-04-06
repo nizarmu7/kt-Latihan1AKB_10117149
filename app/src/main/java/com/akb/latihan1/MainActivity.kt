@@ -30,6 +30,9 @@ membuat hasil untuk nama serta kata-katanya untuk hasil di activity_beres_oke. D
 Tanggal Pengerjaan : 5 April 2020
 Deskripsi Pengerjaan : Memperbaiki inputan di edittext input1(kode keluarga) agar huruf kapital semua.
 
+Tanggal Pengerjaan : 6 April 2020
+Deskripsi Pengerjaan : Merperbaiki warna button dan Menambah validasi untuk input kode harus 6 huruf atau angka.
+
 NIM : 10117149
 NAMA : M NIZAR MIFTAHUL ULYA
 KELAS : IF4

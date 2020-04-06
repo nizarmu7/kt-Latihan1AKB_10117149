@@ -21,6 +21,12 @@ class KodeLogin : AppCompatActivity() {
                 return@setOnClickListener
             }
 
+            if(kode.length != 6)
+            {
+                Toast.makeText(this,"Kolom Kode Harus Berisi 6 Huruf atau Angka",Toast.LENGTH_SHORT ).show()
+                return@setOnClickListener
+            }
+
             val intent = Intent(this, Biodata::class.java)
             startActivity(intent)
         }
